@@ -16,6 +16,7 @@ items:
  - hatoo/oha
  - lighttpd/weighttp
  - grafana/k6
+ - ReviewSignal/orderly-ape
  - tarekziade/molotov
  - locustio/locust
  - mcollina/autocannon
